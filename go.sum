@@ -1,2 +1,6 @@
+github.com/budougumi0617/go_todo_app v1.0.10 h1:lLML/rJYcEeAz8PurGoiYDMnEkno+dEbFXtJHQbZvPU=
+github.com/budougumi0617/go_todo_app v1.0.10/go.mod h1:QwKZ8Ou8WKkvUfe5uNabPlZ2WrncFMwlxFr9hUjXp0Q=
+github.com/caarlos0/env/v6 v6.9.2 h1:vYTmP7KPtHf3LqaQH5Z2AkUY8GmanDrTelXnFzxSK44=
+github.com/caarlos0/env/v6 v6.9.2/go.mod h1:hvp/ryKXKipEkcuYjs9mI4bBCg+UI0Yhgm5Zu0ddvwc=
 golang.org/x/sync v0.1.0 h1:wsuoTGHzEhffawBOhz5CYhcrV4IdKZbEyZjBMuTp12o=
 golang.org/x/sync v0.1.0/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
